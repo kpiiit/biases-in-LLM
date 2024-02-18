@@ -21,7 +21,7 @@ names_N = [
 ]
 region_counts = {region: 0 for region in names_N}
 
-with open('/home/kuvam/task1/last2.txt', 'r') as file:
+with open('last2.txt', 'r') as file:
     
     sentences = file.readlines()
 
