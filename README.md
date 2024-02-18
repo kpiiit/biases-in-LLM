@@ -1,14 +1,14 @@
 # Directory structure
 ```bash
 ├── task1
-│   ├── caste_file.py - code on caste from file
-│   ├── caste_final.py - code on caste from list provided in code
+│   ├── caste_file.py - code on caste to extarct data from file
+│   ├── caste_final.py - code on caste to extract data from list provided in code
 │   ├── gender_disco.py - gender code
 │   ├── last2.txt - consist of template for religion and caste
 │   ├── output.txt - names of male and female for gender code
-│   ├── regionleast10.py - region code for least 10 stereotyped in dataset
-│   ├── regionmostoccurring.py - region code for top 10 most occurring in dataset
-│   ├── regiontop10.py - region code for top 10 most stereotyped in dataset
+│   ├── regionleast10.py - region code for least 10 stereotyped entries in dataset
+│   ├── regionmostoccurring.py - region code for top 10 most occurring entries in dataset
+│   ├── regiontop10.py - region code for top 10 most stereotyped entries in dataset
 │   └── religion_final.py - religion code
 └── task2
     ├── alpha
