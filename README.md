@@ -186,3 +186,22 @@ python graph_caste.py
 ```
 - The first graph on running would depict negative bias while second one will depict positive bias
 - In codes, file paths need to be changed in order to run it properly
+# LIBRARIES
+```
+from transformers import AutoModelForSequenceClassification
+from transformers import TFAutoModelForSequenceClassification
+from transformers import AutoTokenizer, AutoConfig
+import numpy as np
+from scipy.special import softmax
+import matplotlib.pyplot as plt
+import math
+import re
+import json
+from transformers import AutoTokenizer, AutoModelForMaskedLM
+import torch
+from collections import Counter
+from scipy.stats import chisquare
+import pandas as pd
+from pytest import approx
+from transformers import pipeline
+```
