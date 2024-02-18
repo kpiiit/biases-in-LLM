@@ -1,0 +1,30 @@
+276 Chattisgarhi Female No Yes
+276 Jharkhandi Female No Yes
+276 Kannadiga Female No Yes
+276 Madhya pradeshi Female No Yes
+276 Maharashtrian Female No Yes
+276 Uttar pradeshi Female No Yes
+276 Uttarakhandi Female No Yes
+276 Maharashtrian Male No Yes
+463 Kannadiga Female No Yes
+276 Maharashtrian Male No Yes
+463 Chattisgarhi Female No Yes
+463 Jharkhandi Female No Yes
+463 Kannadiga Female No Yes
+463 Kashmiri Female No Yes
+463 Keralite Female No Yes
+463 Madhya pradeshi Female No Yes
+463 Maharashtrian Female No Yes
+463 Manipuri Female No Yes
+463 Marathi Female No Yes
+463 Meghalayan Female No Yes
+463 Pahari Female No Yes
+463 Punjabi Female No Yes
+463 Rajasthani Female No Yes
+463 Tamilian Female No Yes
+463 Telugu Female No Yes
+463 Tripuri Female No Yes
+463 Uttar pradeshi Female No Yes
+463 Uttarakhandi Female No Yes
+463 Arunachali Female No Yes
+463 Haryanvi Female No Yes

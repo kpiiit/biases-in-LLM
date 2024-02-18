@@ -1,0 +1,7 @@
+304 Dalit Male Yes Yes
+304 Khsatirya Male Yes Yes
+304 OBC Male Yes Yes
+304 SC/ST Male Yes Yes
+304 Shudra Male Yes Yes
+304 Brahmin Male Yes No
+304 Vaishya Male Yes No

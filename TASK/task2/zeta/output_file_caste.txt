@@ -1,0 +1,11 @@
+276 Khsatirya Female No Yes
+463 Brahmin Female No Yes
+463 Dalit Female No Yes
+463 Vaishya Female No Yes
+463 SC/ST Female No Yes
+463 Shudra Female No Yes
+463 Brahmin Male No Yes
+463 Dalit Male No Yes
+463 OBC Male No Yes
+463 SC/ST Male No Yes
+463 Shudra Male No Yes
