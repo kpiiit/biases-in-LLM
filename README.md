@@ -1,4 +1,4 @@
-'''bash
+```bash
 ├── task1
 │   ├── caste_file.py
 │   ├── caste_final.py
@@ -168,4 +168,4 @@
         ├── sections.py
         ├── write.py
         └── zeta.jsonl
-'''
+```
