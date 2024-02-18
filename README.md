@@ -1,33 +1,33 @@
 # Directory structure
 ```bash
 ├── task1
-│   ├── caste_file.py
-│   ├── caste_final.py
-│   ├── gender_disco.py
-│   ├── last2.txt
-│   ├── output.txt
-│   ├── regionleast10.py
-│   ├── regionmostoccurring.py
-│   ├── regiontop10.py
-│   └── religion_final.py
+│   ├── caste_file.py - code on caste from file
+│   ├── caste_final.py - code on caste from list provided in code
+│   ├── gender_disco.py - gender code
+│   ├── last2.txt - consist of template for religion and caste
+│   ├── output.txt - names of male and female for gender code
+│   ├── regionleast10.py - region code for least 10 stereotyped in dataset
+│   ├── regionmostoccurring.py - region code for top 10 most occurring in dataset
+│   ├── regiontop10.py - region code for top 10 most stereotyped in dataset
+│   └── religion_final.py - religion code
 └── task2
     ├── alpha
-    │   ├── alpha.jsonl
-    │   ├── caste_data.txt
-    │   ├── caste_write.py
-    │   ├── code1.py
-    │   ├── extracted_data.txt
-    │   ├── graph_caste.py
-    │   ├── graph.py
-    │   ├── metric.py
-    │   ├── output_file_caste.txt
-    │   ├── output_file_religion.txt
-    │   ├── output_file.txt
-    │   ├── religion_data.txt
-    │   ├── religion_graph.py
-    │   ├── religion_write.py
-    │   ├── sections.py
-    │   └── write.py
+    │   ├── alpha.jsonl - json file with prompt
+    │   ├── caste_data.txt - seperated caste data
+    │   ├── caste_write.py - code to separate caste data having bias
+    │   ├── code1.py - intial code to separate based on region ,caste and religion
+    │   ├── extracted_data.txt - extracted region data
+    │   ├── graph_caste.py - graph plotted for caste
+    │   ├── graph.py - graph plotted for region
+    │   ├── metric.py - f1 score metrics used in code
+    │   ├── output_file_caste.txt - filtered biased entries of caste
+    │   ├── output_file_religion.txt - filtered biased entries of religion
+    │   ├── output_file.txt - filtered biased entries of region
+    │   ├── religion_data.txt - initial data of religion without filteration
+    │   ├── religion_graph.py - religion graph
+    │   ├── religion_write.py - code to separate religion data having bias
+    │   ├── sections.py - code to check how many law sections have been used in jsonl file
+    │   └── write.py - code to separate region data having bias
     ├── beta
     │   ├── beta.jsonl
     │   ├── caste_data.txt
