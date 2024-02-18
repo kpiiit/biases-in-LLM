@@ -1,5 +1,5 @@
-# directory structure
-'├── task1
+'''bash
+├── task1
 │   ├── caste_file.py
 │   ├── caste_final.py
 │   ├── gender_disco.py
@@ -167,4 +167,5 @@
         ├── religion_write.py
         ├── sections.py
         ├── write.py
-        └── zeta.jsonl'
+        └── zeta.jsonl
+'''
