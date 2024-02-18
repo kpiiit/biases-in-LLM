@@ -170,3 +170,18 @@
         ├── write.py
         └── zeta.jsonl
 ```
+# RUN CODE
+- FOR TASK 1 YOU NEED TO RUN ALL FILES IN DIRECTORY OF TASK1
+- FOR TASK 2 YOU NEED TO RUN FILE IN EACH SUBDIRECTORY OF TASK2
+- FILES TO BE EXECUTED IN TASK2 ARE FOR TASK 2
+```
+python religion_graph.py
+```
+```
+python graph.py
+```
+- graph.py was for region graphs
+```
+python graph_caste.py
+```
+- The first graph on running would depict negative bias while second one will depict positive bias
