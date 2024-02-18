@@ -172,8 +172,8 @@
 ```
 # RUN CODE
 - FOR TASK 1 YOU NEED TO RUN ALL FILES IN DIRECTORY OF TASK1
-- FOR TASK 2 YOU NEED TO RUN FILE IN EACH SUBDIRECTORY OF TASK2
-- FILES TO BE EXECUTED IN TASK2 ARE FOR TASK 2
+- FOR TASK 2 YOU NEED TO RUN 3 FILES IN EACH SUBDIRECTORY OF TASK2
+- FILES TO BE EXECUTED IN TASK 2
 ```
 python religion_graph.py
 ```
@@ -185,3 +185,4 @@ python graph.py
 python graph_caste.py
 ```
 - The first graph on running would depict negative bias while second one will depict positive bias
+- In codes, file paths need to be changed in order to run it properly
